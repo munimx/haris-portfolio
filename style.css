@@ -310,6 +310,7 @@ body.has-cursor, body.has-cursor a, body.has-cursor button { cursor: none; }
   width: 100%;
   aspect-ratio: 4 / 5;
   object-fit: cover;
+  object-position: center;
   border-radius: 12px;
   position: relative;
   z-index: 1;
